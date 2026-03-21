@@ -1,0 +1,53 @@
+Product Name,Broad classification of Product,,Accuracy Calculation Examples,,,,
+Fiscal Qtr,Cisco Fiscal Calendar is divided into 4 Qtrs ,, PRODUCT,Forecast ,Booking Actuals,Accuracy,Bias
+Q1,Quarter 1 - August to October,,A,1800,450,0.00%,300%
+Q2,Quarter 2 - November to January ,,B,1800,20000,9.00%,-91%
+Q3,Quarter 3 - February to April,,C,80300,87298,91.98%,-8%
+Q4,Quarter 4 - May to July,,D,12800,12207,95.14%,5%
+Units,Number of individual products booked,,E,68000,51855,68.87%,31%
+Demand Planners Forecast ,Demand Planner's Prediction,,F,7450,10022,74.34%,-26%
+Marketing team's Forecast ,Forecast loaded by Marketing team,,,,,,
+MVcL team's forecast,Forecast provided by the Data Science team. It is a multi-variate stream that incorporates both macroeconomic factors and Cisco-internal features during forecasting. ,,,,,,
+BIAS,"Prediction bias is the systematic deviation between estimated and actual values. It is useful to see if you tend to overestimate (BIAS > 0) or underestimate your predictions (BIAS < 0) for all your items. Formula: (Forecast Booking units - Actual Booking units)/Actual Booking Units.
+",,,,,,
+Accuracy,"Forecast accuracy is the degree of difference between the forecasted demand and the actual order booking. In this case, between Forecasted demand and Actual Booked units. At a product level accuracy is calculated using the formula:MAX(0,1-ABSOLUTE(BIAS))
+To calculate overall accuracy for 30 products we will calculate weighted accuracy using product cost to make sure high cost product accuracy gets more weightage than low cost product. ",,,,,,
+Product Life Cycle (PLC),"Sustaining - Product has reached maturity and has steady demamd.
+NPI - Product has been newly introduced to the market/customer
+Decline - Product experiences reduced demand, declining sales and potential obsolescence due to newer technologies or market changes",,,,,,
+Cost Weighted Rank ,Calculated using cost of individual product X CBP Prelim forecast,,,,,,
+Big Deal,"A Big Deal is a large customer order where a very high number of products/units are booked at once. These orders may occur once in a quarter or year, or may repeat periodically based on customer demand or historical buying patterns.",,,,,,
+,,,,,,,
+,,,,,,,
+1. SCMS – Sales Channel Market Segment,,,,,,,
+Definition:,,,,,,,
+"SCMS represents the broad customer categories that Cisco targets through its sales channels, grouping organizations based on their size, type, and purchasing model.",,,,,,,
+,,,,,,,
+SCMS Category,Description,,,,,,
+Commercial,Mid-size businesses that adopt Cisco networking and technology solutions to support business operations and growth.,,,,,,
+Enterprise,Large global or national organizations with complex IT environments requiring large-scale Cisco infrastructure and solutions.,,,,,,
+Other,Customers that do not clearly fall under the standard SCMS categories.,,,,,,
+Public Sector,Government bodies and publicly funded institutions such as education and healthcare that procure Cisco technologies.,,,,,,
+Service Provider,Telecom and network service providers that use Cisco infrastructure to deliver connectivity and digital services to customers.,,,,,,
+SMB (Small & Medium Business),Smaller organizations adopting Cisco networking solutions for foundational IT infrastructure and connectivity.,,,,,,
+,,,,,,,
+2. VMS – Vertical Market Segment,,,,,,,
+Definition:,,,,,,,
+"VMS represents industry-specific segments that classify customers based on the sector they operate in, helping Cisco understand adoption of its technologies across industries.",,,,,,,
+,,,,,,,
+VMS Category,Description,,,,,,
+Education – Public/Private,"Schools, colleges, and universities using Cisco networks for campus connectivity, digital learning, and research infrastructure.",,,,,,
+Energy / Utilities,"Organizations involved in energy production, distribution, and utilities using Cisco networks for operational and industrial connectivity.",,,,,,
+Financial Services,"Banks, insurance companies, and financial institutions using Cisco technologies for secure transactions and digital banking infrastructure.",,,,,,
+Government,"National, state, or local government agencies using Cisco networks to support public services and secure communications.",,,,,,
+Health Care,"Hospitals and healthcare providers using Cisco infrastructure for medical systems, patient data, and connected healthcare services.",,,,,,
+Hospitality / Hotels & Leisure,"Hotels, resorts, and leisure businesses using Cisco networking to support guest connectivity and operational systems.",,,,,,
+Manufacturing,"Industrial and production companies using Cisco networks for factory automation, IoT, and supply chain connectivity.",,,,,,
+Media / Entertainment,"Media companies and broadcasters using Cisco technology for content production, streaming, and distribution.",,,,,,
+Professional Services,"Consulting, legal, accounting, and advisory firms using Cisco solutions for enterprise connectivity and collaboration.",,,,,,
+Retail,"Retail chains and stores using Cisco networks for store connectivity, point-of-sale systems, and customer engagement technologies.",,,,,,
+Service Provider,Telecom and internet providers deploying Cisco infrastructure to deliver network services.,,,,,,
+Technical Services,Technology service organizations providing IT or engineering services supported by Cisco infrastructure.,,,,,,
+Transportation,"Airlines, railways, logistics, and transportation networks using Cisco solutions for operational connectivity and monitoring.",,,,,,
+Unknown,Customers whose industry classification is not clearly identified.,,,,,,
+Wholesale / Distribution,Organizations involved in product distribution and supply chain operations using Cisco networking infrastructure.,,,,,,

@@ -1,0 +1,425 @@
+ Cost Rank , PLID (Masked) , Vms Top Name , VMS Units,,,,,,,,,,,,
+,, Vms Top Name ,,,,,,,,,,,,,
+,,,2023Q1,2023Q2,2023Q3,2023Q4,2024Q1,2024Q2,2024Q3,2024Q4,2025Q1,2025Q2,2025Q3,2025Q4,2026Q1
+1,SWITCH Enterprise 48-Port UPOE,Education- Public/Private,618,"1,090","1,024",834,866,583,"1,437",664,421,"1,093",646,"1,078",618
+1,SWITCH Enterprise 48-Port UPOE,Energy/Utilities,377,413,499,299,500,365,345,361,649,222,244,304,289
+1,SWITCH Enterprise 48-Port UPOE,Financial Services,"1,175","2,947",959,"1,300","1,032",946,"1,173","1,568","1,065",936,"1,688","1,060",738
+1,SWITCH Enterprise 48-Port UPOE,Government,"4,579","4,994","1,827","3,762","5,377","2,059","3,320","5,709","3,438","3,021","2,488","4,111","3,682"
+1,SWITCH Enterprise 48-Port UPOE,Health Care,"5,269","4,463","2,137","4,334","2,266","1,820","2,550","3,162","3,499","4,353","2,807","3,060","2,253"
+1,SWITCH Enterprise 48-Port UPOE,Hospitality/Hotels & Leisure,45,9,35,143,88,77,176,28,66,220,242,308,5
+1,SWITCH Enterprise 48-Port UPOE,Manufacturing,"1,731","1,837","2,113","1,625",813,"1,143","1,685","2,480","1,866","2,178","2,277","2,025","1,968"
+1,SWITCH Enterprise 48-Port UPOE,Media/Entertainment,-128,329,172,138,163,194,164,380,537,128,139,181,293
+1,SWITCH Enterprise 48-Port UPOE,Professional Services,"1,006","1,436","1,049","1,288",332,653,"1,362","1,590",883,"1,154",644,841,642
+1,SWITCH Enterprise 48-Port UPOE,Retail,"1,955","1,479",379,345,165,506,"3,641",738,509,831,739,"4,011","1,627"
+1,SWITCH Enterprise 48-Port UPOE,Service Provider,307,31,63,81,9,37,77,57,107,86,35,31,13
+1,SWITCH Enterprise 48-Port UPOE,Technical Services,235,561,182,173,131,179,132,311,265,164,196,222,99
+1,SWITCH Enterprise 48-Port UPOE,Transportation,148,489,181,"1,101",57,92,198,121,302,688,93,351,110
+1,SWITCH Enterprise 48-Port UPOE,Unknown,"3,719",915,-114,542,594,654,"1,185",982,981,990,"2,051",958,674
+1,SWITCH Enterprise 48-Port UPOE,Wholesale/Distribution,210,154,81,135,40,132,83,373,119,194,106,122,134
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Education- Public/Private,"5,847","5,880","10,368","15,377","7,277","7,881","10,720","11,877","9,162","13,691","22,860","15,415","8,111"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Energy/Utilities,22,467,488,"1,683",665,"2,078","1,284","3,851","1,297","2,386","1,642",716,823
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Financial Services,855,"2,830","9,339","4,972","4,067","3,981","6,373","7,590","8,032","9,074","12,372","8,064","4,474"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Government,"5,528","5,840","6,304","11,198","9,244","10,606","10,792","10,817","12,692","15,681","13,816","16,533","14,419"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Health Care,"1,111","2,838","5,511","2,939","2,469","9,036","8,895","5,712","2,748","3,483","6,679","2,710","2,825"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Hospitality/Hotels & Leisure,,30,,264,72,4,59,9,46,53,15,10,7
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Manufacturing,950,"1,909","1,448","3,841","3,809","5,315","3,488","6,097","6,155","5,893","4,943","5,270","6,313"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Media/Entertainment,80,344,86,"1,146",499,387,765,"1,196",780,944,304,512,130
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Professional Services,712,"1,978","2,162","4,861","6,113","2,794","4,556","4,946","4,736","6,313","4,456","3,829","4,275"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Retail,"1,331",540,190,492,302,228,898,785,"1,027","1,374",959,852,"1,477"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Service Provider,167,"1,193",345,231,"1,169",168,"1,519",685,"1,051",459,"2,226",177,180
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Technical Services,26,49,483,482,449,"1,955",431,637,"1,588",851,"1,349","1,415","1,754"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Transportation,,256,811,"1,950",814,"4,452",971,339,966,955,804,472,721
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Unknown,"5,037","6,126","2,839","9,454","4,629","10,022","8,356","11,580","5,918","16,533","14,410","14,894","12,190"
+2,WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,Wholesale/Distribution,1,219,131,"2,324",354,517,966,831,933,406,"1,008",625,619
+3,SWITCH Core 25G/100G Fiber,Education- Public/Private,253,223,529,330,224,250,345,516,175,414,245,421,212
+3,SWITCH Core 25G/100G Fiber,Energy/Utilities,121,243,68,250,105,95,114,153,166,191,225,189,178
+3,SWITCH Core 25G/100G Fiber,Financial Services,292,448,407,451,380,344,655,529,349,623,505,722,632
+3,SWITCH Core 25G/100G Fiber,Government,872,972,933,"1,100",755,889,"1,241","1,289","1,217",975,974,"1,350","1,650"
+3,SWITCH Core 25G/100G Fiber,Health Care,102,95,103,107,113,137,140,163,186,157,236,386,254
+3,SWITCH Core 25G/100G Fiber,Hospitality/Hotels & Leisure,4,21,0,8,12,9,2,4,9,9,25,18,4
+3,SWITCH Core 25G/100G Fiber,Manufacturing,778,614,885,680,667,766,779,"1,028",792,"1,072",910,"1,126","1,097"
+3,SWITCH Core 25G/100G Fiber,Media/Entertainment,102,363,63,78,25,379,279,184,137,193,363,176,65
+3,SWITCH Core 25G/100G Fiber,Professional Services,282,413,412,687,470,374,440,522,466,568,513,707,602
+3,SWITCH Core 25G/100G Fiber,Retail,75,58,40,74,79,144,56,90,55,153,78,120,85
+3,SWITCH Core 25G/100G Fiber,Service Provider,60,68,86,59,35,73,89,29,53,75,98,72,133
+3,SWITCH Core 25G/100G Fiber,Technical Services,151,102,174,297,182,201,187,129,248,172,219,298,209
+3,SWITCH Core 25G/100G Fiber,Transportation,696,44,24,41,52,36,53,317,55,98,34,121,54
+3,SWITCH Core 25G/100G Fiber,Unknown,766,979,630,827,918,801,982,691,906,847,"1,114",973,"1,030"
+3,SWITCH Core 25G/100G Fiber,Wholesale/Distribution,55,35,41,72,73,72,86,157,54,109,162,105,141
+4,SWITCH Enterprise 24-Port PoE+,Education- Public/Private,137,498,160,201,176,178,455,562,205,315,217,302,447
+4,SWITCH Enterprise 24-Port PoE+,Energy/Utilities,558,308,655,626,225,395,285,453,213,215,304,383,367
+4,SWITCH Enterprise 24-Port PoE+,Financial Services,697,469,480,"1,132",724,755,"1,272",495,629,682,801,840,533
+4,SWITCH Enterprise 24-Port PoE+,Government,"3,769","3,028","2,391","2,878","4,142","1,832","3,799","2,902","2,939","2,989","2,632","3,489","2,998"
+4,SWITCH Enterprise 24-Port PoE+,Health Care,85,362,120,91,51,78,67,135,60,148,62,136,86
+4,SWITCH Enterprise 24-Port PoE+,Hospitality/Hotels & Leisure,2,7,0,0,3,0,,15,3,5,4,3,1
+4,SWITCH Enterprise 24-Port PoE+,Manufacturing,"1,626","1,629","1,571","2,298","1,232","1,056","1,505","1,801","1,370","1,230","1,364","1,543","1,406"
+4,SWITCH Enterprise 24-Port PoE+,Media/Entertainment,363,256,190,100,60,195,83,86,77,83,75,106,102
+4,SWITCH Enterprise 24-Port PoE+,Professional Services,319,824,853,"1,411",730,579,947,728,714,826,"1,076",781,767
+4,SWITCH Enterprise 24-Port PoE+,Retail,78,61,448,153,150,105,133,106,84,89,139,171,61
+4,SWITCH Enterprise 24-Port PoE+,Service Provider,-44,87,25,56,37,860,202,23,47,57,444,41,73
+4,SWITCH Enterprise 24-Port PoE+,Technical Services,314,184,213,291,659,834,319,212,80,207,254,345,131
+4,SWITCH Enterprise 24-Port PoE+,Transportation,693,-71,150,463,48,183,170,89,93,185,146,157,65
+4,SWITCH Enterprise 24-Port PoE+,Unknown,"2,558","3,153","1,006","1,878","2,146","2,541","1,960","2,171","1,868","1,237","1,269","1,833","1,298"
+4,SWITCH Enterprise 24-Port PoE+,Wholesale/Distribution,35,132,96,103,78,111,150,168,78,168,650,208,98
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Education- Public/Private,"9,823","9,553","4,765","7,268","2,765","2,208","3,126","6,697","3,773","3,345","5,196","2,688","6,920"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Energy/Utilities,488,"1,589",568,891,"1,331","1,266",438,635,138,692,358,296,259
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Financial Services,"6,603","9,996","5,400","4,804","2,098","2,874","5,437","2,841","4,326","6,447","4,698","3,922","1,452"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Government,"8,999","11,676","6,852","8,704","8,233","9,352","9,932","10,280","15,328","13,958","5,252","6,895","8,271"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Health Care,653,"1,463","1,755","2,111","2,138","2,538","1,438","2,819","1,948","1,789","2,474","2,760","1,236"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Hospitality/Hotels & Leisure,331,387,216,186,97,281,208,418,96,107,112,21,59
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Manufacturing,"5,770","8,533","10,558","8,157","6,180","6,561","5,106","7,332","4,089","8,458","5,642","4,914","6,463"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Media/Entertainment,277,725,158,110,264,856,421,640,892,382,322,115,125
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Professional Services,"3,783","4,995","5,809","2,080","5,861","3,845","3,962","6,112","3,691","2,762","4,787","2,067","3,226"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Retail,693,995,399,843,"1,588","4,999","1,352","1,025",657,"1,454",209,746,"1,206"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Service Provider,"1,578","2,704",795,883,"5,234",654,"1,387","1,285","1,279","1,943",861,947,393
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Technical Services,"7,669","2,033","3,402","1,726",864,"1,600","2,456","3,473","2,076","2,282","3,952","3,865",120
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Transportation,357,393,"1,007",161,318,"3,562",359,816,460,208,364,835,405
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Unknown,"19,840","28,558","25,481","16,007","15,538","12,075","14,990","14,357","13,506","15,496","18,941","11,034","12,545"
+5,WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,Wholesale/Distribution,765,749,505,"1,307","1,090",437,"1,169",830,986,958,542,419,508
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Education- Public/Private,7,19,12,2,10,47,33,25,9,10,14,12,13
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Energy/Utilities,16,25,34,47,6,13,32,43,50,15,24,20,48
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Financial Services,46,166,37,62,27,55,32,78,43,69,24,92,30
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Government,"1,853",756,852,"1,627","2,913",679,844,"1,782","1,810","1,119","1,147","1,502","1,877"
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Health Care,12,11,8,1,4,2,9,8,3,1,2,10,6
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Hospitality/Hotels & Leisure,3,0,12,8,16,13,11,9,11,5,8,12,1
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Manufacturing,155,108,220,148,189,209,133,202,290,255,147,162,186
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Media/Entertainment,8,79,6,31,22,6,11,10,12,2,8,4,10
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Professional Services,35,54,38,104,44,120,75,94,161,70,147,152,112
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Retail,15,9,-1,40,36,11,7,23,26,32,26,12,48
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Service Provider,10,20,6,72,135,20,101,39,29,59,28,70,92
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Technical Services,51,70,52,146,86,75,142,247,113,79,101,113,75
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Transportation,17,5,14,7,4,12,10,9,16,19,12,33,9
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Unknown,594,356,308,130,253,387,242,258,317,446,384,300,506
+7,SWITCH Enterprise 48-Port Fiber (Non-PoE),Wholesale/Distribution,76,37,157,41,25,-3,37,102,21,15,21,19,22
+8,SWITCH Enterprise 25G Fiber,Education- Public/Private,157,135,147,93,142,115,166,257,128,158,114,257,95
+8,SWITCH Enterprise 25G Fiber,Energy/Utilities,48,16,169,112,93,107,73,123,108,83,90,122,155
+8,SWITCH Enterprise 25G Fiber,Financial Services,92,156,123,205,149,121,125,166,144,266,236,341,336
+8,SWITCH Enterprise 25G Fiber,Government,431,554,361,601,644,337,608,605,774,796,647,"1,167",944
+8,SWITCH Enterprise 25G Fiber,Health Care,20,40,21,24,42,65,23,71,20,27,68,64,39
+8,SWITCH Enterprise 25G Fiber,Hospitality/Hotels & Leisure,3,4,8,6,12,7,1,4,8,15,7,3,2
+8,SWITCH Enterprise 25G Fiber,Manufacturing,184,174,291,401,297,313,315,393,416,353,468,458,418
+8,SWITCH Enterprise 25G Fiber,Media/Entertainment,32,13,27,70,37,63,29,45,91,15,79,63,44
+8,SWITCH Enterprise 25G Fiber,Professional Services,109,243,137,262,141,201,176,343,141,194,309,297,173
+8,SWITCH Enterprise 25G Fiber,Retail,66,29,69,50,32,30,31,65,29,37,32,52,44
+8,SWITCH Enterprise 25G Fiber,Service Provider,16,31,30,49,35,105,29,48,70,67,17,25,71
+8,SWITCH Enterprise 25G Fiber,Technical Services,158,24,130,69,123,114,54,177,116,255,201,187,160
+8,SWITCH Enterprise 25G Fiber,Transportation,88,43,72,90,77,23,37,90,108,90,33,51,101
+8,SWITCH Enterprise 25G Fiber,Unknown,523,483,374,318,427,582,314,547,483,545,511,684,518
+8,SWITCH Enterprise 25G Fiber,Wholesale/Distribution,20,34,27,71,19,47,36,72,115,117,53,61,36
+9,SWITCH Enterprise 24-Port UPOE,Education- Public/Private,163,138,104,65,111,30,56,77,53,41,83,108,47
+9,SWITCH Enterprise 24-Port UPOE,Energy/Utilities,394,285,101,85,319,78,81,203,305,188,95,437,153
+9,SWITCH Enterprise 24-Port UPOE,Financial Services,110,84,46,174,146,95,129,97,793,133,160,139,99
+9,SWITCH Enterprise 24-Port UPOE,Government,"1,202",938,"1,247","1,191","2,299",461,546,546,861,610,619,670,"1,608"
+9,SWITCH Enterprise 24-Port UPOE,Health Care,27,45,13,17,17,27,140,96,24,105,39,235,39
+9,SWITCH Enterprise 24-Port UPOE,Hospitality/Hotels & Leisure,152,12,47,64,12,12,0,11,70,91,29,8,2
+9,SWITCH Enterprise 24-Port UPOE,Manufacturing,537,"1,206",293,378,213,192,187,374,236,276,358,443,263
+9,SWITCH Enterprise 24-Port UPOE,Media/Entertainment,19,116,25,72,16,33,117,120,90,224,54,49,108
+9,SWITCH Enterprise 24-Port UPOE,Professional Services,534,144,379,-2,240,115,314,290,517,235,131,241,552
+9,SWITCH Enterprise 24-Port UPOE,Retail,69,66,47,40,8,82,72,18,7,77,54,156,-14
+9,SWITCH Enterprise 24-Port UPOE,Service Provider,12,4,55,56,32,7,5,1,63,6,7,3,5
+9,SWITCH Enterprise 24-Port UPOE,Technical Services,58,18,91,247,"1,085",160,90,119,119,27,69,74,64
+9,SWITCH Enterprise 24-Port UPOE,Transportation,61,145,64,76,24,20,69,74,42,8,57,134,146
+9,SWITCH Enterprise 24-Port UPOE,Unknown,316,220,328,192,77,159,185,141,424,250,391,255,208
+9,SWITCH Enterprise 24-Port UPOE,Wholesale/Distribution,40,13,24,32,17,44,37,47,40,38,15,11,22
+10,ROUTER Enterprise Edge 10G/40G,Education- Public/Private,4,7,12,11,12,19,5,7,13,0,10,12,2
+10,ROUTER Enterprise Edge 10G/40G,Energy/Utilities,14,2,16,9,21,2,10,13,24,0,15,14,4
+10,ROUTER Enterprise Edge 10G/40G,Financial Services,58,95,99,131,48,85,102,72,106,207,135,148,175
+10,ROUTER Enterprise Edge 10G/40G,Government,72,69,85,73,138,24,117,85,146,62,466,154,119
+10,ROUTER Enterprise Edge 10G/40G,Health Care,8,11,23,8,8,25,12,44,16,41,14,20,27
+10,ROUTER Enterprise Edge 10G/40G,Hospitality/Hotels & Leisure,,,2,0,4,23,,4,0,,2,0,6
+10,ROUTER Enterprise Edge 10G/40G,Manufacturing,30,31,92,49,36,59,53,98,45,57,56,48,37
+10,ROUTER Enterprise Edge 10G/40G,Media/Entertainment,8,8,20,13,9,8,9,6,3,4,9,12,34
+10,ROUTER Enterprise Edge 10G/40G,Professional Services,23,35,21,66,28,39,54,48,21,74,42,18,31
+10,ROUTER Enterprise Edge 10G/40G,Retail,17,8,2,12,0,16,13,24,16,14,20,10,13
+10,ROUTER Enterprise Edge 10G/40G,Service Provider,8,50,34,23,17,16,24,28,34,35,34,15,20
+10,ROUTER Enterprise Edge 10G/40G,Technical Services,16,24,24,13,6,19,28,49,18,22,21,19,11
+10,ROUTER Enterprise Edge 10G/40G,Transportation,4,22,2,14,13,10,12,6,10,0,10,48,13
+10,ROUTER Enterprise Edge 10G/40G,Unknown,15,15,6,17,15,30,46,24,47,17,24,7,32
+10,ROUTER Enterprise Edge 10G/40G,Wholesale/Distribution,10,13,2,4,0,,11,10,4,12,,7,6
+11,SECURITY FIREWALL Next-Generation_2,Education- Public/Private,20,15,36,38,8,16,16,18,3,14,9,19,8
+11,SECURITY FIREWALL Next-Generation_2,Energy/Utilities,2,8,1,56,2,10,12,32,3,21,24,4,13
+11,SECURITY FIREWALL Next-Generation_2,Financial Services,22,41,33,79,14,40,37,48,39,29,64,51,49
+11,SECURITY FIREWALL Next-Generation_2,Government,40,8,59,85,58,65,76,45,34,40,44,83,62
+11,SECURITY FIREWALL Next-Generation_2,Health Care,14,6,10,14,0,14,0,10,8,15,14,10,6
+11,SECURITY FIREWALL Next-Generation_2,Hospitality/Hotels & Leisure,6,0,,,,,,,,,,,
+11,SECURITY FIREWALL Next-Generation_2,Manufacturing,6,12,19,22,17,36,25,11,21,20,22,20,10
+11,SECURITY FIREWALL Next-Generation_2,Media/Entertainment,,,7,4,6,4,0,12,0,7,12,8,4
+11,SECURITY FIREWALL Next-Generation_2,Professional Services,35,18,28,56,14,39,6,32,4,20,30,26,24
+11,SECURITY FIREWALL Next-Generation_2,Retail,2,15,18,0,4,4,9,4,6,0,10,4,0
+11,SECURITY FIREWALL Next-Generation_2,Service Provider,4,14,4,48,3,4,4,10,0,8,14,40,18
+11,SECURITY FIREWALL Next-Generation_2,Technical Services,2,0,14,12,6,0,12,22,4,39,34,40,7
+11,SECURITY FIREWALL Next-Generation_2,Transportation,,2,6,0,,2,7,0,4,4,0,8,2
+11,SECURITY FIREWALL Next-Generation_2,Unknown,8,7,14,26,29,5,23,20,33,14,29,19,41
+11,SECURITY FIREWALL Next-Generation_2,Wholesale/Distribution,4,4,9,4,12,2,2,0,4,5,1,0,8
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Education- Public/Private,192,194,128,428,78,320,163,111,43,388,127,89,144
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Energy/Utilities,155,672,443,656,194,244,341,168,231,437,348,352,220
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Financial Services,3,139,-61,238,196,448,267,342,172,258,179,281,406
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Government,443,916,703,544,"1,104",422,595,"1,423",381,388,553,463,427
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Health Care,19,31,18,44,14,53,32,108,31,25,66,9,5
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Hospitality/Hotels & Leisure,21,27,66,50,8,38,94,2,14,207,27,2,20
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Manufacturing,"1,524",828,"1,908","1,587","1,494","1,519","1,199","2,006","1,430","1,567",927,"1,150","1,751"
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Media/Entertainment,57,14,8,23,58,74,80,38,64,1,74,5,35
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Professional Services,172,288,409,473,492,613,413,215,672,327,657,400,119
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Retail,411,10,785,86,58,49,106,84,37,95,98,150,108
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Service Provider,3,7,51,16,47,85,69,18,39,30,24,12,9
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Technical Services,40,25,176,241,28,16,65,72,67,339,155,84,74
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Transportation,82,144,92,46,95,255,201,120,71,112,59,241,55
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Unknown,"1,673","1,313",-627,704,830,737,610,525,730,859,"1,227",807,408
+12,WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,Wholesale/Distribution,381,81,101,209,223,160,156,156,188,131,250,311,101
+13,SWITCH Core 100G Fiber,Education- Public/Private,14,74,78,37,29,113,88,39,40,52,40,89,26
+13,SWITCH Core 100G Fiber,Energy/Utilities,17,20,31,13,0,9,8,13,10,5,2,7,6
+13,SWITCH Core 100G Fiber,Financial Services,15,30,35,45,25,23,19,51,32,29,51,43,18
+13,SWITCH Core 100G Fiber,Government,67,65,110,87,176,79,104,88,120,69,86,130,164
+13,SWITCH Core 100G Fiber,Health Care,16,10,12,12,10,18,20,38,12,22,11,28,13
+13,SWITCH Core 100G Fiber,Hospitality/Hotels & Leisure,0,8,0,2,2,17,,0,,,7,6,9
+13,SWITCH Core 100G Fiber,Manufacturing,176,76,55,60,101,32,54,90,90,70,79,102,99
+13,SWITCH Core 100G Fiber,Media/Entertainment,50,6,2,10,6,14,68,6,10,27,0,41,2
+13,SWITCH Core 100G Fiber,Professional Services,12,40,15,109,19,40,20,19,17,46,54,41,35
+13,SWITCH Core 100G Fiber,Retail,14,43,14,32,9,16,4,27,10,42,6,13,13
+13,SWITCH Core 100G Fiber,Service Provider,45,18,10,53,7,18,11,5,33,8,6,15,14
+13,SWITCH Core 100G Fiber,Technical Services,332,8,6,12,9,107,270,274,498,159,157,76,76
+13,SWITCH Core 100G Fiber,Transportation,6,1,8,5,10,4,20,36,2,2,4,30,2
+13,SWITCH Core 100G Fiber,Unknown,60,97,6,45,67,36,27,17,51,106,56,92,69
+13,SWITCH Core 100G Fiber,Wholesale/Distribution,8,,2,6,1,0,2,10,2,8,5,5,
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Education- Public/Private,,,,,,,84,150,454,356,308,918,366
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Energy/Utilities,,,,,,,3,55,126,795,110,255,283
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Financial Services,,,,,,60,20,465,329,196,236,318,427
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Government,,,,,,,35,172,259,508,394,916,746
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Health Care,,,,,,,9,105,82,198,124,173,585
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Hospitality/Hotels & Leisure,,,,,,,,,24,2,27,1,
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Manufacturing,,,,,,0,128,302,795,"1,855",796,"1,895","1,573"
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Media/Entertainment,,,,,,,5,45,57,58,16,"1,218",3
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Professional Services,,,,,,8,65,76,122,216,393,203,273
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Retail,,,,,,21,4,14,55,144,457,294,172
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Service Provider,,,,,,,22,25,36,1,1,144,7
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Technical Services,,,,,,,19,27,55,34,53,194,119
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Transportation,,,,,,,5,115,27,154,187,255,281
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Unknown,,,,,,170,25,161,420,477,465,690,581
+14,WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Wholesale/Distribution,,,,,,239,100,507,350,185,143,246,314
+15,SECURITY FIREWALL Next-Generation_1,Education- Public/Private,7,13,16,26,17,8,15,12,8,15,17,33,12
+15,SECURITY FIREWALL Next-Generation_1,Energy/Utilities,7,5,0,2,8,7,0,27,2,4,8,6,12
+15,SECURITY FIREWALL Next-Generation_1,Financial Services,23,49,61,51,18,40,67,41,15,54,56,38,28
+15,SECURITY FIREWALL Next-Generation_1,Government,21,30,49,95,83,34,57,86,43,71,51,91,100
+15,SECURITY FIREWALL Next-Generation_1,Health Care,0,33,16,6,0,8,6,19,10,15,18,24,13
+15,SECURITY FIREWALL Next-Generation_1,Hospitality/Hotels & Leisure,2,1,,,,,,,,,2,0,
+15,SECURITY FIREWALL Next-Generation_1,Manufacturing,12,4,14,12,10,21,63,33,15,19,23,17,27
+15,SECURITY FIREWALL Next-Generation_1,Media/Entertainment,8,4,11,5,3,,2,9,0,2,6,1,6
+15,SECURITY FIREWALL Next-Generation_1,Professional Services,23,25,13,18,26,22,20,26,5,58,87,78,32
+15,SECURITY FIREWALL Next-Generation_1,Retail,3,2,2,14,5,0,4,2,14,2,18,13,21
+15,SECURITY FIREWALL Next-Generation_1,Service Provider,,13,6,16,2,10,12,8,5,24,33,8,10
+15,SECURITY FIREWALL Next-Generation_1,Technical Services,1,9,22,16,12,2,26,24,16,16,6,9,11
+15,SECURITY FIREWALL Next-Generation_1,Transportation,2,2,2,1,0,2,3,8,0,1,8,1,6
+15,SECURITY FIREWALL Next-Generation_1,Unknown,17,27,26,11,8,9,37,28,24,27,23,28,44
+15,SECURITY FIREWALL Next-Generation_1,Wholesale/Distribution,0,4,4,14,0,12,2,6,0,4,,2,2
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Education- Public/Private,28,177,65,142,63,67,83,151,72,47,"1,050",81,79
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Energy/Utilities,4,,6,1,8,4,,18,2,25,2,0,2
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Financial Services,24,132,60,88,70,70,60,111,158,117,33,104,170
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Government,250,106,163,184,215,21,230,271,143,235,333,307,496
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Health Care,5,63,7,15,11,23,25,35,43,58,26,21,124
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Hospitality/Hotels & Leisure,25,,6,,,,,,,,,,13
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Manufacturing,904,324,"1,977",532,277,485,372,407,641,"1,010",593,749,369
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Media/Entertainment,2,52,0,5,3,0,4,7,1,7,0,,1
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Professional Services,26,98,89,40,56,63,188,123,89,145,266,153,62
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Retail,0,55,13,237,134,10,44,132,30,45,282,61,99
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Service Provider,0,0,9,0,23,5,0,,8,8,4,0,16
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Technical Services,45,11,69,98,1,4,18,97,15,16,21,30,106
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Transportation,0,1,0,5,5,9,17,172,9,11,0,2,0
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Unknown,120,321,123,248,267,275,251,345,133,430,262,253,169
+16,SWITCH Enterprise 48-Port PoE+ with 10G Uplink,Wholesale/Distribution,0,34,0,50,31,68,51,138,149,64,16,12,17
+17,SWITCH Enterprise 24-Port PoE+ Compact,Education- Public/Private,37,-15,7,46,31,15,79,37,12,85,60,46,38
+17,SWITCH Enterprise 24-Port PoE+ Compact,Energy/Utilities,1,5,0,18,24,26,6,24,108,44,137,143,238
+17,SWITCH Enterprise 24-Port PoE+ Compact,Financial Services,8,42,38,46,30,104,153,96,79,60,88,164,275
+17,SWITCH Enterprise 24-Port PoE+ Compact,Government,15,54,72,142,124,172,110,142,127,236,152,291,442
+17,SWITCH Enterprise 24-Port PoE+ Compact,Health Care,1,2,0,7,0,0,2,21,2,19,5,11,2
+17,SWITCH Enterprise 24-Port PoE+ Compact,Hospitality/Hotels & Leisure,,0,2,0,,0,9,0,,,4,,
+17,SWITCH Enterprise 24-Port PoE+ Compact,Manufacturing,105,175,105,76,73,102,104,145,96,264,278,243,273
+17,SWITCH Enterprise 24-Port PoE+ Compact,Media/Entertainment,23,3,5,6,4,18,26,8,0,15,10,36,12
+17,SWITCH Enterprise 24-Port PoE+ Compact,Professional Services,6,23,62,25,33,36,34,75,31,59,296,74,74
+17,SWITCH Enterprise 24-Port PoE+ Compact,Retail,0,0,6,27,25,7,16,31,7,28,11,21,19
+17,SWITCH Enterprise 24-Port PoE+ Compact,Service Provider,4,0,0,12,9,3,20,14,1,10,2,4,5
+17,SWITCH Enterprise 24-Port PoE+ Compact,Technical Services,11,12,33,34,107,38,71,108,-7,56,116,39,44
+17,SWITCH Enterprise 24-Port PoE+ Compact,Transportation,,0,0,0,17,0,3,35,0,11,10,29,15
+17,SWITCH Enterprise 24-Port PoE+ Compact,Unknown,62,121,179,157,151,134,116,169,271,229,656,242,174
+17,SWITCH Enterprise 24-Port PoE+ Compact,Wholesale/Distribution,2,21,8,12,13,14,76,139,162,105,96,81,41
+18,SWITCH Data Center 25G/100G Leaf,Education- Public/Private,,,,7,15,11,20,16,4,15,20,22,16
+18,SWITCH Data Center 25G/100G Leaf,Energy/Utilities,,,,,11,12,7,27,35,30,32,28,16
+18,SWITCH Data Center 25G/100G Leaf,Financial Services,,,,30,32,171,97,92,101,148,80,163,91
+18,SWITCH Data Center 25G/100G Leaf,Government,,,,20,68,103,121,207,259,128,140,446,130
+18,SWITCH Data Center 25G/100G Leaf,Health Care,,,,,6,6,10,14,8,15,26,34,6
+18,SWITCH Data Center 25G/100G Leaf,Hospitality/Hotels & Leisure,,,,,,,0,4,0,,,4,4
+18,SWITCH Data Center 25G/100G Leaf,Manufacturing,,,,4,61,114,82,86,108,95,146,184,119
+18,SWITCH Data Center 25G/100G Leaf,Media/Entertainment,,,,2,8,4,5,9,14,8,7,23,12
+18,SWITCH Data Center 25G/100G Leaf,Professional Services,,,,4,36,50,36,82,47,72,69,113,87
+18,SWITCH Data Center 25G/100G Leaf,Retail,,,,2,7,6,6,18,8,31,14,14,17
+18,SWITCH Data Center 25G/100G Leaf,Service Provider,,,,4,11,7,14,24,13,50,23,36,61
+18,SWITCH Data Center 25G/100G Leaf,Technical Services,,,,,12,31,74,36,31,40,35,32,34
+18,SWITCH Data Center 25G/100G Leaf,Transportation,,,,,1,11,52,30,6,4,18,-4,4
+18,SWITCH Data Center 25G/100G Leaf,Unknown,,,,8,54,124,78,195,89,169,86,120,104
+18,SWITCH Data Center 25G/100G Leaf,Wholesale/Distribution,,,,4,4,8,26,16,8,2,20,33,14
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Education- Public/Private,"1,087",391,132,769,71,26,190,683,206,179,170,33,923
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Energy/Utilities,52,243,93,257,31,166,4,89,47,292,53,13,23
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Financial Services,537,364,469,"1,333",185,206,368,476,607,621,270,212,211
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Government,636,"3,624",509,183,793,398,"2,576",605,83,908,514,523,488
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Health Care,79,76,149,47,69,415,26,458,48,12,60,0,10
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Hospitality/Hotels & Leisure,0,19,0,0,0,0,0,,12,,2,0,
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Manufacturing,"2,732","3,351","3,033","2,760","1,933","2,514","2,038","2,083","1,968","2,062","1,280","2,545","1,996"
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Media/Entertainment,41,75,44,41,31,8,78,144,200,127,253,66,79
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Professional Services,"1,071","1,186",656,705,566,464,526,539,756,930,778,606,826
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Retail,298,361,198,401,129,372,158,281,179,383,39,29,235
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Service Provider,483,64,256,105,-14,53,121,4,,22,486,203,114
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Technical Services,99,171,500,131,93,101,73,78,182,74,315,293,200
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Transportation,462,"1,807",146,180,146,"1,125",112,303,72,60,"2,262","3,137",45
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Unknown,"1,052","3,840","4,280","2,030","3,223","2,532","2,332","2,638","2,240","2,122","3,198","1,228","1,967"
+19,WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Wholesale/Distribution,466,379,226,166,561,262,151,489,377,363,239,647,144
+20,SWITCH Data Center 100G Spine,Education- Public/Private,4,6,6,7,9,14,26,12,0,,6,5,0
+20,SWITCH Data Center 100G Spine,Energy/Utilities,0,8,20,0,8,11,2,4,40,,0,32,22
+20,SWITCH Data Center 100G Spine,Financial Services,-1,24,30,32,31,18,146,258,314,275,327,180,238
+20,SWITCH Data Center 100G Spine,Government,37,30,48,30,38,62,15,38,100,24,60,33,80
+20,SWITCH Data Center 100G Spine,Health Care,1,4,6,18,6,6,8,6,6,32,6,0,6
+20,SWITCH Data Center 100G Spine,Hospitality/Hotels & Leisure,,,,,,,,,,,,2,0
+20,SWITCH Data Center 100G Spine,Manufacturing,44,10,18,21,12,16,75,28,18,30,23,12,26
+20,SWITCH Data Center 100G Spine,Media/Entertainment,,0,10,2,,2,6,2,2,4,2,,4
+20,SWITCH Data Center 100G Spine,Professional Services,-116,2,10,15,14,21,14,18,41,14,52,53,14
+20,SWITCH Data Center 100G Spine,Retail,,24,0,2,,6,0,8,14,18,6,15,29
+20,SWITCH Data Center 100G Spine,Service Provider,17,12,0,6,14,12,2,12,19,0,5,20,18
+20,SWITCH Data Center 100G Spine,Technical Services,1,4,7,4,4,,18,14,14,61,12,25,8
+20,SWITCH Data Center 100G Spine,Transportation,8,0,2,8,0,30,8,26,0,6,7,8,0
+20,SWITCH Data Center 100G Spine,Unknown,18,4,32,24,8,18,41,18,9,42,19,48,59
+20,SWITCH Data Center 100G Spine,Wholesale/Distribution,,0,6,6,3,2,0,6,0,2,0,8,2
+21,SWITCH Core 100G/400G Fiber,Education- Public/Private,20,33,25,41,5,10,34,13,8,28,10,42,24
+21,SWITCH Core 100G/400G Fiber,Energy/Utilities,,,,2,0,,,12,3,2,0,10,
+21,SWITCH Core 100G/400G Fiber,Financial Services,2,2,20,3,3,4,11,14,8,25,38,21,10
+21,SWITCH Core 100G/400G Fiber,Government,10,33,5,1,37,15,28,24,15,64,22,52,100
+21,SWITCH Core 100G/400G Fiber,Health Care,0,6,0,,2,6,3,5,2,4,11,6,15
+21,SWITCH Core 100G/400G Fiber,Hospitality/Hotels & Leisure,,,,,,,,,,,8,,
+21,SWITCH Core 100G/400G Fiber,Manufacturing,12,3,5,10,2,4,8,8,9,16,29,5,8
+21,SWITCH Core 100G/400G Fiber,Media/Entertainment,19,,,,1,6,4,2,4,4,14,14,2
+21,SWITCH Core 100G/400G Fiber,Professional Services,5,36,24,2,10,58,-14,29,2,26,30,42,5
+21,SWITCH Core 100G/400G Fiber,Retail,,,8,12,0,6,0,,4,4,2,0,3
+21,SWITCH Core 100G/400G Fiber,Service Provider,,,,,,9,5,2,2,2,18,4,0
+21,SWITCH Core 100G/400G Fiber,Technical Services,6,1,,0,6,1,4,4,1,0,2,2,20
+21,SWITCH Core 100G/400G Fiber,Transportation,0,1,0,,,,2,10,0,2,2,2,
+21,SWITCH Core 100G/400G Fiber,Unknown,,,,10,8,18,15,51,46,47,13,19,17
+21,SWITCH Core 100G/400G Fiber,Wholesale/Distribution,,,,,,,,,2,1,,8,4
+22,IP PHONE Enterprise Desk,Education- Public/Private,"9,152",683,"1,804","4,970","3,411","1,006","1,211",590,711,"1,486","1,786","1,072",408
+22,IP PHONE Enterprise Desk,Energy/Utilities,"1,070","1,289","1,307","1,774","2,103","1,063",497,585,249,95,179,291,53
+22,IP PHONE Enterprise Desk,Financial Services,"2,601","6,328","2,617","2,505","1,003","14,532",960,"1,555","1,158",516,858,577,"1,240"
+22,IP PHONE Enterprise Desk,Government,"12,377","7,114","9,772","4,645","5,986","5,272","3,696","3,523","3,879",560,"1,193","5,024","2,537"
+22,IP PHONE Enterprise Desk,Health Care,"2,104","1,991","2,779","4,874","3,292","6,819","4,762","4,950","7,384","13,048","1,396","1,787","2,653"
+22,IP PHONE Enterprise Desk,Hospitality/Hotels & Leisure,,0,21,50,,50,470,3,,0,,3,2
+22,IP PHONE Enterprise Desk,Manufacturing,"1,130",463,535,887,236,318,245,954,134,314,283,281,367
+22,IP PHONE Enterprise Desk,Media/Entertainment,36,79,2,"1,557",47,5,0,4,7,10,0,1,0
+22,IP PHONE Enterprise Desk,Professional Services,835,"2,510","3,811","1,666","1,103","1,242","1,928","4,381","2,652","3,712","5,608","2,158",477
+22,IP PHONE Enterprise Desk,Retail,100,"1,137","4,507","2,921",367,251,340,685,599,453,494,"1,068",421
+22,IP PHONE Enterprise Desk,Service Provider,138,25,41,53,47,4,23,54,30,14,20,259,21
+22,IP PHONE Enterprise Desk,Technical Services,"3,072","3,224","4,638","1,821","2,040",28,"2,009",246,"4,165",342,"3,000",320,"3,083"
+22,IP PHONE Enterprise Desk,Transportation,"1,179",75,25,717,37,28,130,546,8,20,7,28,33
+22,IP PHONE Enterprise Desk,Unknown,"9,600","6,887","11,494","13,171","8,766","9,501","17,191","6,357","8,872","3,819","6,575","5,796","2,084"
+22,IP PHONE Enterprise Desk,Wholesale/Distribution,121,509,50,162,308,36,292,503,332,24,168,290,86
+23,ROUTER Branch 4-Port PoE,Education- Public/Private,33,2,85,23,-81,308,5,10,155,26,152,23,4
+23,ROUTER Branch 4-Port PoE,Energy/Utilities,13,1,19,20,8,5,2,5,3,0,12,6,9
+23,ROUTER Branch 4-Port PoE,Financial Services,"2,758",722,543,353,525,521,799,856,772,"1,409",812,562,"2,739"
+23,ROUTER Branch 4-Port PoE,Government,-35,622,"2,320",153,402,"1,214",513,304,88,661,169,"1,513",26
+23,ROUTER Branch 4-Port PoE,Health Care,93,42,35,14,6,4,2,3,15,4,3,36,13
+23,ROUTER Branch 4-Port PoE,Hospitality/Hotels & Leisure,,1,,0,0,1,0,,1,1,,,0
+23,ROUTER Branch 4-Port PoE,Manufacturing,128,112,125,260,664,176,100,437,"2,137",299,"1,317",490,939
+23,ROUTER Branch 4-Port PoE,Media/Entertainment,0,0,0,6,68,14,626,576,291,"3,288",30,21,2
+23,ROUTER Branch 4-Port PoE,Professional Services,11,147,568,"1,066",27,168,871,112,30,96,120,45,97
+23,ROUTER Branch 4-Port PoE,Retail,41,24,549,-6,39,593,"1,579",663,246,512,785,903,321
+23,ROUTER Branch 4-Port PoE,Service Provider,115,167,210,"6,337",87,152,"1,193","2,467","1,510",86,"1,593",448,470
+23,ROUTER Branch 4-Port PoE,Technical Services,130,219,"2,219",240,176,318,124,74,265,52,130,91,17
+23,ROUTER Branch 4-Port PoE,Transportation,4,12,52,8,13,30,71,6,0,14,2,22,12
+23,ROUTER Branch 4-Port PoE,Unknown,"1,117","2,375","3,346","2,359","1,042","2,189","2,419","1,666","2,858","1,419","2,702","1,969","2,111"
+23,ROUTER Branch 4-Port PoE,Wholesale/Distribution,41,40,349,287,31,83,237,92,59,7,18,54,53
+24,SWITCH Industrial 8-Port PoE,Education- Public/Private,11,2,3,10,19,9,8,3,21,9,1,14,16
+24,SWITCH Industrial 8-Port PoE,Energy/Utilities,81,196,358,121,162,146,120,62,110,114,228,203,125
+24,SWITCH Industrial 8-Port PoE,Financial Services,177,11,73,245,90,575,69,69,115,287,94,93,160
+24,SWITCH Industrial 8-Port PoE,Government,632,645,"1,175",430,142,732,795,361,859,751,432,588,522
+24,SWITCH Industrial 8-Port PoE,Health Care,0,0,2,0,,,,2,1,,14,23,1
+24,SWITCH Industrial 8-Port PoE,Hospitality/Hotels & Leisure,0,,,,,,1,,,3,,,
+24,SWITCH Industrial 8-Port PoE,Manufacturing,309,367,235,181,217,231,156,623,498,518,277,478,234
+24,SWITCH Industrial 8-Port PoE,Media/Entertainment,39,4,96,54,5,20,13,19,4,70,31,12,31
+24,SWITCH Industrial 8-Port PoE,Professional Services,52,113,90,346,218,271,347,259,480,378,661,759,642
+24,SWITCH Industrial 8-Port PoE,Retail,0,22,4,6,11,1,7,1,26,0,26,27,32
+24,SWITCH Industrial 8-Port PoE,Service Provider,0,,2,1,3,30,0,3,0,1,2,2,0
+24,SWITCH Industrial 8-Port PoE,Technical Services,23,82,0,20,13,-15,18,39,9,6,61,51,40
+24,SWITCH Industrial 8-Port PoE,Transportation,243,-138,118,211,39,69,62,502,67,215,252,162,79
+24,SWITCH Industrial 8-Port PoE,Unknown,220,409,284,560,294,231,392,496,308,416,396,478,202
+24,SWITCH Industrial 8-Port PoE,Wholesale/Distribution,7,14,13,27,16,23,41,35,82,56,100,77,81
+25,IP CONFERENCE PHONE,Education- Public/Private,129,231,308,104,41,66,74,105,78,145,130,285,44
+25,IP CONFERENCE PHONE,Energy/Utilities,76,170,236,140,205,233,204,169,86,352,259,66,264
+25,IP CONFERENCE PHONE,Financial Services,775,"1,519",290,636,377,416,361,186,"1,749","1,344",769,547,"1,797"
+25,IP CONFERENCE PHONE,Government,"2,028","1,925","1,183","1,485","2,172","1,060",786,"1,134","2,977","1,129",756,917,934
+25,IP CONFERENCE PHONE,Health Care,198,146,132,326,224,676,293,286,98,100,149,145,87
+25,IP CONFERENCE PHONE,Hospitality/Hotels & Leisure,2,8,1,0,17,,5,0,0,,1,0,
+25,IP CONFERENCE PHONE,Manufacturing,853,592,535,502,727,484,493,368,898,544,552,"1,160",89
+25,IP CONFERENCE PHONE,Media/Entertainment,6,16,15,23,9,18,36,17,47,1,0,3,14
+25,IP CONFERENCE PHONE,Professional Services,285,199,247,243,226,676,143,196,468,260,115,228,146
+25,IP CONFERENCE PHONE,Retail,45,42,43,28,96,15,44,49,7,43,30,27,29
+25,IP CONFERENCE PHONE,Service Provider,17,21,5,2,149,0,96,16,145,2,0,61,0
+25,IP CONFERENCE PHONE,Technical Services,202,125,40,17,64,88,61,19,166,42,146,10,38
+25,IP CONFERENCE PHONE,Transportation,-284,-78,80,62,31,80,65,27,206,7,19,17,29
+25,IP CONFERENCE PHONE,Unknown,846,183,335,540,"1,413","1,040","1,359",641,728,821,798,"1,044",266
+25,IP CONFERENCE PHONE,Wholesale/Distribution,19,25,36,20,35,14,19,64,55,38,129,6,10
+26,SWITCH Industrial 8-Port PoE Compact,Education- Public/Private,8,1,11,9,6,9,12,14,10,5,10,11,9
+26,SWITCH Industrial 8-Port PoE Compact,Energy/Utilities,70,60,59,229,88,50,171,107,200,54,108,58,66
+26,SWITCH Industrial 8-Port PoE Compact,Financial Services,101,37,81,69,41,34,88,33,84,71,59,19,37
+26,SWITCH Industrial 8-Port PoE Compact,Government,676,340,305,225,734,367,250,343,212,532,271,558,948
+26,SWITCH Industrial 8-Port PoE Compact,Health Care,0,10,1,1,2,0,5,2,2,,,1,1
+26,SWITCH Industrial 8-Port PoE Compact,Hospitality/Hotels & Leisure,,33,,8,0,19,0,5,0,-8,,,11
+26,SWITCH Industrial 8-Port PoE Compact,Manufacturing,126,95,68,82,174,68,87,200,55,134,81,282,97
+26,SWITCH Industrial 8-Port PoE Compact,Media/Entertainment,0,,8,68,14,3,16,3,1,2,14,7,9
+26,SWITCH Industrial 8-Port PoE Compact,Professional Services,27,28,20,25,35,230,147,417,81,27,183,57,67
+26,SWITCH Industrial 8-Port PoE Compact,Retail,2,0,0,18,4,2,3,3,7,2,12,0,2
+26,SWITCH Industrial 8-Port PoE Compact,Service Provider,15,25,1,102,0,20,20,0,6,6,0,,3
+26,SWITCH Industrial 8-Port PoE Compact,Technical Services,689,8,3,21,11,23,75,11,202,847,259,506,443
+26,SWITCH Industrial 8-Port PoE Compact,Transportation,30,10,43,93,125,4,124,85,8,31,32,131,30
+26,SWITCH Industrial 8-Port PoE Compact,Unknown,281,118,171,260,124,158,142,287,413,205,306,332,163
+26,SWITCH Industrial 8-Port PoE Compact,Wholesale/Distribution,7,25,15,10,3,149,43,27,20,9,22,7,33
+27,SWITCH Industrial Managed,Manufacturing,,,,502,277,736,960,"1,480","2,472","1,881","1,920","2,864","2,240"
+27,SWITCH Industrial Managed,Professional Services,,,,,,,,,,,1,,
+27,SWITCH Industrial Managed,Unknown,,,,,,0,0,0,0,0,0,0,0
+27,SWITCH Industrial Managed,Wholesale/Distribution,,,,,,,,,0,,,,
+28,ROUTER Edge Aggregation Fiber,Education- Public/Private,-1,4,23,8,10,5,9,14,2,2,32,19,2
+28,ROUTER Edge Aggregation Fiber,Energy/Utilities,3,0,24,15,2,8,23,4,17,14,9,37,131
+28,ROUTER Edge Aggregation Fiber,Financial Services,-83,82,-5,12,49,624,405,575,259,"1,408",105,37,44
+28,ROUTER Edge Aggregation Fiber,Government,66,117,12,20,34,15,70,84,11,90,14,6,8
+28,ROUTER Edge Aggregation Fiber,Health Care,,0,0,1,26,,,3,,4,1,2,8
+28,ROUTER Edge Aggregation Fiber,Hospitality/Hotels & Leisure,,,,,,,,,1,0,,,
+28,ROUTER Edge Aggregation Fiber,Manufacturing,1,8,4,14,0,,11,12,12,18,2,5,30
+28,ROUTER Edge Aggregation Fiber,Media/Entertainment,8,2,4,3,1,0,0,15,2,0,0,0,
+28,ROUTER Edge Aggregation Fiber,Professional Services,124,301,52,3,126,3,40,80,222,114,101,40,68
+28,ROUTER Edge Aggregation Fiber,Retail,44,-2,144,-5,82,70,,158,1,1,9,0,61
+28,ROUTER Edge Aggregation Fiber,Service Provider,"1,022",287,432,353,252,346,490,748,472,223,288,353,440
+28,ROUTER Edge Aggregation Fiber,Technical Services,17,36,15,33,2,37,7,0,2,2,3,9,2
+28,ROUTER Edge Aggregation Fiber,Transportation,21,3,0,4,2,0,,,2,,,0,2
+28,ROUTER Edge Aggregation Fiber,Unknown,419,-166,53,73,11,336,819,334,181,56,15,313,137
+28,ROUTER Edge Aggregation Fiber,Wholesale/Distribution,,0,,0,,15,0,31,,7,1,6,10
+29,SWITCH Industrial 24-Port PoE,Education- Public/Private,,,,,,,,,,,12,0,3
+29,SWITCH Industrial 24-Port PoE,Energy/Utilities,,,,,,3,14,35,175,119,210,412,85
+29,SWITCH Industrial 24-Port PoE,Financial Services,,,,,,2,0,,2,8,21,1,3
+29,SWITCH Industrial 24-Port PoE,Government,,,,,15,30,38,53,23,8,65,30,140
+29,SWITCH Industrial 24-Port PoE,Health Care,,,,,,4,0,,,,,1,10
+29,SWITCH Industrial 24-Port PoE,Manufacturing,,,,1,32,2,56,63,38,18,36,34,28
+29,SWITCH Industrial 24-Port PoE,Media/Entertainment,,,,,,,,,0,,,,
+29,SWITCH Industrial 24-Port PoE,Professional Services,,,,,,16,0,4,,,12,15,13
+29,SWITCH Industrial 24-Port PoE,Retail,,,,,,1,,,,,,,1
+29,SWITCH Industrial 24-Port PoE,Technical Services,,,,,,,,,22,25,9,66,9
+29,SWITCH Industrial 24-Port PoE,Transportation,,,,,,,6,,9,2,30,81,7
+29,SWITCH Industrial 24-Port PoE,Unknown,,,,,,,,,1,104,50,6,0
+29,SWITCH Industrial 24-Port PoE,Wholesale/Distribution,,,,,,,1,,,21,0,0,2
+30,ROUTER Branch 8-Port PoE,Education- Public/Private,,,,4,1,5,,,,16,0,,1
+30,ROUTER Branch 8-Port PoE,Energy/Utilities,52,10,190,0,,4,20,6,75,47,36,40,104
+30,ROUTER Branch 8-Port PoE,Financial Services,11,39,129,48,"1,724",72,11,130,25,502,"1,085",961,87
+30,ROUTER Branch 8-Port PoE,Government,85,744,353,274,510,583,"1,022",489,662,259,82,601,762
+30,ROUTER Branch 8-Port PoE,Health Care,,,0,,,1,2,10,0,1,7,1,5
+30,ROUTER Branch 8-Port PoE,Hospitality/Hotels & Leisure,,0,,,,,,,1,,,,
+30,ROUTER Branch 8-Port PoE,Manufacturing,12,9,198,25,21,26,23,54,5,159,32,42,17
+30,ROUTER Branch 8-Port PoE,Media/Entertainment,2,400,7,4,10,74,6,7,20,5,164,233,96
+30,ROUTER Branch 8-Port PoE,Professional Services,1,4,18,3,9,3,4,15,7,5,9,90,12
+30,ROUTER Branch 8-Port PoE,Retail,10,0,1,6,7,3,21,9,5,29,3,6,2
+30,ROUTER Branch 8-Port PoE,Service Provider,0,6,6,1,0,5,26,1,5,26,1,9,1
+30,ROUTER Branch 8-Port PoE,Technical Services,0,0,64,6,7,5,15,1,18,23,18,15,35
+30,ROUTER Branch 8-Port PoE,Transportation,0,,0,1,0,35,1,1,3,6,2,1,
+30,ROUTER Branch 8-Port PoE,Unknown,130,40,45,9,74,158,127,109,200,217,179,91,84
+30,ROUTER Branch 8-Port PoE,Wholesale/Distribution,-24,7,2,0,1,0,0,9,0,42,16,2,2

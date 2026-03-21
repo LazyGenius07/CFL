@@ -1,0 +1,31 @@
+Masked Products,Description
+SWITCH Enterprise 48-Port UPOE,"Enterprise-grade 48-port access switch supporting Universal PoE (up to 60W per port) to power high-demand devices such as advanced wireless access points, surveillance cameras, and IoT systems. Designed for campus access layers and smart building deployments with long-term software support."
+WIRELESS ACCESS POINT WiFi6E (Internal Antenna) Indoor,"Indoor Wi-Fi 6E tri-band access point (2.4/5/6 GHz) with internal antennas. Built for high-density office environments requiring higher bandwidth, low latency, and support for modern collaboration and cloud applications."
+SWITCH Core 25G/100G Fiber,High-performance core switch with 25G fiber access ports and 100G uplinks. Designed for campus backbone and aggregation layers where high throughput and low latency are critical.
+SWITCH Enterprise 24-Port PoE+,"24-port enterprise switch supporting PoE+ (up to 30W per port) for powering IP phones, wireless access points, and cameras. Ideal for office floor access connectivity."
+WIRELESS ACCESS POINT WiFi6 (Internal Antenna) Indoor,"Indoor Wi-Fi 6 dual-band access point with internal antenna design. Suitable for medium-density workplaces such as classrooms, offices, and meeting spaces."
+ROUTER Core Modular Chassis,"High-capacity modular routing platform designed for core networks and service provider backbones. Supports scalable throughput, advanced routing protocols, and large traffic volumes."
+SWITCH Enterprise 48-Port Fiber (Non-PoE),48-port fiber-based enterprise switch (non-PoE) used in fiber-rich access or aggregation layers. Suitable for high-speed device connectivity where power delivery is not required.
+SWITCH Enterprise 25G Fiber,Enterprise switch with 25G fiber ports for high-speed access or aggregation. Designed for environments with bandwidth-intensive applications and next-generation endpoints.
+SWITCH Enterprise 24-Port UPOE,24-port enterprise access switch supporting UPOE for high-power devices. Commonly deployed in smart offices and dense wireless environments requiring enhanced power delivery.
+ROUTER Enterprise Edge 10G/40G,"Enterprise edge router with multiple 10G and 40G interfaces for WAN aggregation, secure connectivity, and SD-WAN deployments. Used at headquarters or large branches."
+SECURITY FIREWALL Next-Generation_2,"1RU next-generation firewall providing intrusion prevention, deep packet inspection, VPN services, and advanced threat protection. Deployed at enterprise perimeters and data centers."
+WIRELESS ACCESS POINT WiFi6 (External Antenna) Outdoor,"Outdoor Wi-Fi 6 access point with external antenna support for flexible coverage design. Suitable for campuses, stadiums, and outdoor enterprise environments."
+SWITCH Core 100G Fiber,High-density 100G fiber switch designed for campus core and aggregation networks. Supports high-speed backbone connectivity and large-scale traffic handling.
+WIRELESS ACCESS POINT WiFi6E (External Antenna) Outdoor,Outdoor Wi-Fi 6E tri-band access point with external antenna support. Designed for high-capacity wireless deployments requiring extended coverage and 6 GHz performance.
+SECURITY FIREWALL Next-Generation_1,"Enterprise security appliance delivering advanced firewall protection, IPS, and secure remote access for branch or mid-size deployments."
+SWITCH Enterprise 48-Port PoE+ with 10G Uplink,48-port enterprise PoE+ switch with 10G uplinks and multi-gig support. Used in campus access networks to power endpoints while providing high-speed uplink connectivity.
+SWITCH Enterprise 24-Port PoE+ Compact,Compact 24-port PoE+ enterprise switch with 10G uplinks. Designed for branch offices and space-constrained deployments.
+SWITCH Data Center 25G/100G Leaf,Data center leaf switch supporting 25G server connections and 100G uplinks. Designed for spine-leaf architectures in cloud and virtualization environments.
+WIRELESS ACCESS POINT WiFi6 (External Antenna) Indoor,Indoor Wi-Fi 6 access point with external antenna flexibility for customized coverage in enterprise offices.
+SWITCH Data Center 100G Spine,High-performance 100G spine switch for large-scale data center fabrics. Supports high east-west traffic in cloud-scale environments.
+SWITCH Core 100G/400G Fiber,Advanced core switch supporting both 100G and 400G connectivity. Designed for next-generation campus backbone and aggregation networks.
+IP PHONE Enterprise Desk,Enterprise IP desk phone with HD voice and VoIP capabilities. Used for daily business communication in corporate environments.
+ROUTER Branch 4-Port PoE,"Compact branch router with integrated PoE ports for powering small office devices. Supports WAN connectivity, routing, and security services."
+SWITCH Industrial 8-Port PoE,"Rugged industrial Ethernet switch with 8 PoE ports and fiber uplinks. Designed for factories, warehouses, and harsh environments requiring durable networking."
+IP CONFERENCE PHONE,Conference room IP phone designed for large meeting spaces with wideband audio coverage and enterprise voice integration.
+SWITCH Industrial 8-Port PoE Compact,Compact rugged industrial switch supporting PoE. Used in control cabinets and space-constrained industrial environments.
+SWITCH Industrial Managed,"Managed industrial Ethernet switch with copper and combo ports, supporting resilient ring protocols for manufacturing networks."
+ROUTER Edge Aggregation Fiber,Fiber-based edge aggregation router supporting multiple gigabit and 10G interfaces. Used for metro Ethernet and enterprise WAN aggregation.
+SWITCH Industrial 24-Port PoE,24-port industrial PoE+ switch with high power budget and fiber uplinks. Designed for large-scale industrial and infrastructure deployments.
+ROUTER Branch 8-Port PoE,"Integrated branch router with 8 PoE ports and WAN uplink options. Supports routing, VPN, and security services for medium-sized branch offices."
