@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 
-DATA_DIR = Path("CISCO_DATASET")
+DATA_DIR = Path("Cisco_updated_dataset")
 ACTUAL_PATH = DATA_DIR / "CFL_External Data Pack_Phase1(Data Pack - Actual Bookings).csv"
 SCMS_PATH = DATA_DIR / "CFL_External Data Pack_Phase1(SCMS).csv"
 VMS_PATH = DATA_DIR / "CFL_External Data Pack_Phase1(VMS).csv"
@@ -414,11 +414,10 @@ def print_summary(forecast_df: pd.DataFrame) -> None:
     print(f"Demand Planner backtest accuracy: {planner_accuracy:.4f}")
     print(f"Marketing backtest accuracy: {marketing_accuracy:.4f}")
     print(f"Data Science backtest accuracy: {data_science_accuracy:.4f}")
-    print("\nTop 10 FY26 Q2 forecasts:")
+    print(f"\nAll {len(forecast_df)} FY26 Q2 forecasts:")
     print(
         forecast_df[["Product Name", "Product Life Cycle", "Final Forecast FY26 Q2"]]
         .sort_values("Final Forecast FY26 Q2", ascending=False)
-        .head(10)
         .to_string(index=False)
     )
 
